@@ -24,4 +24,4 @@ A number of disclosed bugreports submitted to Immunefi.
 ### About me
 I am a smart contract bug bounty hunter and auditor specialized in fuzzing. My fuzzer of choice is Echidna.
 
-I'm open to offers for work as an independent contractor. You can reach me at [@rappenstein2](https://twitter.com/rappenstein2) on twitter, or on Discord as "Rappie#6502" (Immunefi server).
+I'm open to offers for work as an independent contractor. You can reach me at [@rappenstein2](https://twitter.com/rappenstein2) on twitter, or on Discord at "Rappie#6502" (Immunefi server).
