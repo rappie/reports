@@ -23,9 +23,9 @@ Origin Dollar
 - Researching possible solutions for rounding errors in the OUSD token
 
 ### Tools used
-- Echidna ([link](https://github.com/crytic/echidna))
-- Foundry ([link](https://github.com/foundry-rs/foundry))
-- Hardhat ([link](https://github.com/NomicFoundation/hardhat))
+- Echidna ([echidna](https://github.com/crytic/echidna))
+- Foundry ([foundry](https://github.com/foundry-rs/foundry))
+- Hardhat ([hardhat](https://github.com/NomicFoundation/hardhat))
 - many more..
 
 ### Acknowledgements
