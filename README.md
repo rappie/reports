@@ -35,6 +35,9 @@ Origin Dollar
 - Patrick Ventuzelo ([Fuzzing Labs](https://www.youtube.com/channel/UCGD1Qt2jgnFRjrfAITGdNfQ))
 - more..
 
+### Other work
+- [OUSD Fuzzing Campaign](https://github.com/rappie/origindollar-fuzzing-public)
+
 ### About me
 I am a smart contract bug bounty hunter and auditor specialized in fuzzing. My fuzzer of choice is Echidna.
 
