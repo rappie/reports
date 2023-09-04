@@ -11,6 +11,11 @@ Origin Dollar (https://www.ousd.com)
 -  [Token burn bug.md](https://github.com/rappie/reports/blob/main/immunefi/Origin%20Dollar%20-%20Token%20burn%20bug)
 -  [Total supply can become larger than max supply.md](https://github.com/rappie/reports/blob/main/immunefi/Origin%20Dollar%20-%20Total%20supply%20can%20become%20larger%20than%20max%20supply)
 
+### Code4rena
+Canto Identity Subprotocols contest
+-  [Incorrect argument passed to "Utils.characterToUnicodeBytes" in "Namespace.fuse"](https://github.com/code-423n4/2023-03-canto-identity-findings/issues/101)
+
+
 ### Audits
 Origin Dollar (https://www.ousd.com)
 - [Security assessment of PR #1239](https://github.com/rappie/reports/blob/main/audits/Origin%20Dollar%20-%20Security%20assessment%20of%20PR%20%231239.md).
@@ -41,4 +46,4 @@ Origin Dollar
 ### About me
 I am a smart contract bug bounty hunter and auditor specialized in fuzzing. My fuzzer of choice is Echidna.
 
-I'm open for offers to work as an independent contractor. You can reach me at [@rappenstein2](https://twitter.com/rappenstein2) on twitter, or on Discord at "Rappie#6502".
+I am for hire as an independent contractor. You can reach me at [@rappenstein2](https://twitter.com/rappenstein2) on twitter, and "Rappie#6502" on Discord.
