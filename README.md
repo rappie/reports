@@ -46,4 +46,4 @@ Origin Dollar
 ### About me
 I am a smart contract bug bounty hunter and auditor specialized in fuzzing. My fuzzer of choice is Echidna.
 
-I am for hire as an independent contractor. You can reach me at [@rappenstein2](https://twitter.com/rappenstein2) on twitter, and "Rappie#6502" on Discord.
+I am for hire as an independent contractor. You can reach me at [@rappie_eth](https://twitter.com/rappie_eth) on twitter, and "Rappie#6502" on Discord.
