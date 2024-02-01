@@ -1,5 +1,5 @@
 # Reports
-This repository contains all public reports written by Rappie.
+This repository contains all public work performed by Rappie.
 
 ### Immunefi
 Azuro (https://azuro.org)
@@ -15,7 +15,6 @@ Origin Dollar (https://www.ousd.com)
 Canto Identity Subprotocols contest
 -  [Incorrect argument passed to "Utils.characterToUnicodeBytes" in "Namespace.fuse"](https://github.com/code-423n4/2023-03-canto-identity-findings/issues/101)
 
-
 ### Audits
 Origin Dollar (https://www.ousd.com)
 - [Security assessment of PR #1239](https://github.com/rappie/reports/blob/main/audits/Origin%20Dollar%20-%20Security%20assessment%20of%20PR%20%231239.md).
@@ -27,23 +26,9 @@ Origin Dollar
 - [Rounding errors in OUSD](https://github.com/rappie/reports/blob/main/research/Rounding%20errors%20in%20OUSD.md)
 - Researching possible solutions for rounding errors in the OUSD token
 
-### Tools used
-- [Echidna](https://github.com/crytic/echidna)
-- [Foundry](https://github.com/foundry-rs/foundry)
-- [Hardhat](https://github.com/NomicFoundation/hardhat)
-- many more..
-
-### Acknowledgements
-- Trail of Bits ([@trailofbits](https://twitter.com/trailofbits))
-- Gustavo Grieco
-- Daniel von Fange ([@danielvf](https://twitter.com/danielvf))
-- Patrick Ventuzelo ([Fuzzing Labs](https://www.youtube.com/channel/UCGD1Qt2jgnFRjrfAITGdNfQ))
-- more..
-
-### Other work
+### Fuzzing Campaigns
 - [OUSD Fuzzing Campaign](https://github.com/rappie/origindollar-fuzzing-public)
+- [Drips Fuzzing Campaign](https://github.com/perimetersec/drips-fuzzing)
 
 ### About me
-I am a smart contract bug bounty hunter and auditor specialized in fuzzing. My fuzzer of choice is Echidna.
-
-I am for hire as an independent contractor. You can reach me at [@rappie_eth](https://twitter.com/rappie_eth) on twitter, and "Rappie#6502" on Discord.
+I am a smart contract fuzzing specialist, using Echidna and Medusa. You can reach me at [@rappie_eth](https://twitter.com/rappie_eth) on twitter, and "rappie" on Discord.
